@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 import download
 import argparse
 import sys
